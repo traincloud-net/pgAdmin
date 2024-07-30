@@ -1,0 +1,20 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "traincloud-xxx",
+            "Group": "Servers",
+            "Host": "1.2.3.4",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "postgres"
+        },
+        "2": {
+            "Name": "traincloud-yyy",
+            "Group": "Servers",
+            "Host": "2.3.4.5",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "postgres"
+        }
+    }
+  }
